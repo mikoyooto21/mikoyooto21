@@ -5,7 +5,8 @@
 
 <br />
 
-Привет, меня зовут Артем, я студент. Сейчас учусь на системного администратора. Изучаю Python, C#, C++.
+Привіт, мене звати Артем. Я вивчаю Python, C#, C++.
+Займаюся веб скреппінгом за допомогою requests, beautifulsoup та selenium webdriver.
 
 <br />
   
@@ -14,9 +15,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-🚧 **Мои задачи на ближайшее время:**
-<!-- TODO-IST:START -->
-* [x] Выучить основы Python(в том числе и ООП)
-* [x] Изучить SQL и работу с БД в принципе
-* [x] Выучить Django
-<!-- TODO-IST:END -->
+
